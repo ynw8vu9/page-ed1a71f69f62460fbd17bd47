@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2de8075fee636e0bf8d8efc0",
+  "owner": "ynw8vu9",
+  "repo": "page-ed1a71f69f62460fbd17bd47",
+  "title": "霸王茶鸡(NebulaCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ed1a71f69f62460fbd17bd47",
+      "a": "霸王茶鸡(NebulaCloud)",
+      "b": "2027官方最新地址导航",
+      "entity": "霸王茶鸡(NebulaCloud)",
+      "brand": "霸王茶鸡(NebulaCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ff33d518f8f4b0a01bb09a8e4be3660ce6f68b5108701602c3168890195d347f",
+      "content": {
+        "primary_entity": "霸王茶鸡(NebulaCloud)",
+        "keyword1": "霸王茶鸡(NebulaCloud)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，订阅配置流程可参考各客户端自带说明。",
+          "AI_CLIENTS_TITLE": "客户端与设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置即可使用。",
+          "AI_CLOSING_TITLE": "选好套餐，开始加速",
+          "AI_DESCRIPTION": "，霸王茶鸡(NebulaCloud)提供基础版、旗舰版与团队版三档套餐，分别覆盖每月 100GB、300GB 与 1000GB 流量，支持 3 台、5 台与 20 台设备同时在线。旗舰版附带 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点与企业定制路由。用户可按设备系统选择合适客户端，依据客户端文档配置订阅。",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度对比套餐，能更快锁定合适档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按实际用量选择档位。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用终端数量决定。",
+          "AI_FEATURE_TEXT_3": "三档均提供按年付方案，长期使用可优先考虑年付以简化续费流程。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确定套餐档位，再检查设备适配要求，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "霸王茶鸡(NebulaCloud)提供多档海外加速套餐，覆盖不同流量与设备数量需求，旗舰版针对游戏场景加入 IPLC 专线优化，团队版面向多人协作提供高带宽节点与企业定制路由。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖不同设备规模",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备与企业定制路由",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并带 IPLC 专线优化，团队版每月 1000GB 支持 20 台设备。三档均提供按年付方案。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按每月流量用量与同时在线设备数量，从基础版、旗舰版、团队版中选定档位。",
+          "AI_STEP_TEXT_2": "确认常用设备系统是否在客户端支持范围内，并查看对应适配要求。",
+          "AI_STEP_TEXT_3": "依据所选客户端自带的文档说明，导入订阅并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "霸王茶鸡多档加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，适合轻度使用；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，提供 VIP 高带宽节点和企业定制路由。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。如果需要多设备共享，建议直接选择团队版。",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15，年付 ¥150；旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850。年付相当于按十个月计费。",
+          "AI_FAQ_ANSWER_4": "先看常用设备数量，再看每月流量需求，最后考虑是否需要 IPLC 专线或高带宽节点。一般单人日常使用基础版即可，有流媒体和游戏需求可选旗舰版。",
+          "AI_FAQ_ANSWER_5": "根据设备系统选择对应客户端，参照客户端文档导入订阅信息，选择节点后连接即可。不同客户端的导入方式略有差异，请以所用客户端说明为准。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅周期。",
+          "AI_FAQ_QUESTION_1": "霸王茶鸡(NebulaCloud) 三档套餐主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "一共支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "年付和月付相比能省多少？",
+          "AI_FAQ_QUESTION_4": "怎样挑选适合自己使用的套餐？",
+          "AI_FAQ_QUESTION_5": "订阅后怎么配置到设备上使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nxjwd.com",
+    "host": "nxjwd.com"
+  },
+  "file_hashes": {
+    "index.html": "02a1682acd70c0817c9bd29c6fe835b362c556ae69fad98d33d8c90a652e1a86",
+    "sitemap.xml": "9b82e93dc5da1e60a28fd2f4a39afd7b12ebdd3293265f2edfeffeaa81a46566",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d512428b845df72010ad5030f9f7b82403b778956bacaaeca28f9f2beda355d9",
+    "robots.txt": "fe322433d4f349da1fafd2d353001c4a4cc0576955c789d196680af337b96307",
+    "c7a8b8be68f3cf005ef38caf8bcfc444.txt": "f19a39689d699a365491441bf36ddc81dd62d0bd37b3fc11e29b3b2b79e8913b"
+  },
+  "revision": "20f64ae2bc71b56d184efc4600d3e87f8afa4d64878e0e6d584718731cd0d860"
+}
